@@ -1,0 +1,19 @@
+{
+    "habits": [
+        {
+            "name": "Exercise",
+            "category": "Health",
+            "completed": false
+        },
+        {
+            "name": "Read",
+            "category": "Personal Development",
+            "completed": true
+        },
+        {
+            "name": "Drink water",
+            "category": "Health",
+            "completed": false
+        }
+    ]
+}
